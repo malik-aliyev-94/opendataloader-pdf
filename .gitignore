@@ -56,8 +56,6 @@ logs/
 *.pyd
 *.so
 **/.venv/
-**/.env
-**/.env.*
 *.egg-info/
 **/.eggs/
 **/.mypy_cache/
@@ -79,3 +77,4 @@ content/docs/
 .claude/settings.local.json
 .claude/plans/
 
+config.bat
